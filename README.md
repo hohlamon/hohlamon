@@ -12,7 +12,13 @@
         <p>I'm Artem (hohlamon), a School21 student based in Saint-Petersburg.</p>
         <p>🌱 I’m currently learning Python, backend frameworks and NLP methods.</p>
         <p>📫 How to reach me: artemholmansky@yandex.ru, Telegram @hohlamoon.</p>
-        <h3>🛠️ My Skills:\n <l> Python</l></h3>
+        <h3>🛠️ My Skills:</h3>
+        <ul>
+            <li>Programming Languages: Python, Basic C</li>
+            <li>Frameworks & Libraries: pandas, requests, nltk</li>
+            <li>Other: Basic Linux, Git</li>
+            <!-- Add more items as needed -->
+        </ul>
         <p>[Your skills, e.g., Programming Languages, Tools, Technologies]</p>
     </div>
 </body>
