@@ -16,7 +16,7 @@
         <ul>
             <li>Programming Languages: Python, Basic C</li>
             <li>Frameworks & Libraries: pandas, requests, nltk</li>
-            <li>Other: Basic Linux, Git</li>
+            <li>Other: Basic Linux, Git, English B2+</li>
             <!-- Add more items as needed -->
         </ul>
     </div>
