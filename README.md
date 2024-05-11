@@ -19,7 +19,6 @@
             <li>Other: Basic Linux, Git</li>
             <!-- Add more items as needed -->
         </ul>
-        <p>[Your skills, e.g., Programming Languages, Tools, Technologies]</p>
     </div>
 </body>
 </html>
