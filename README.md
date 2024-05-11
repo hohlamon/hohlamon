@@ -9,12 +9,10 @@
     <div class="container">
         <h1>Hi there! 👋</h1>
         <p>Welcome to my GitHub profile!</p>
-        <p>I'm [Your Name], a [Your Role/Title] based in [Your Location].</p>
-        <p>🌱 I’m currently learning [What you're currently learning].</p>
-        <p>💬 Ask me about [Your expertise/interests].</p>
-        <p>📫 How to reach me: [Your email or social media handles].</p>
-        <p>⚡ Fun fact: [Something interesting about you].</p>
-        <h3>🛠️ My Skills</h3>
+        <p>I'm Artem (hohlamon), a School21 student based in Saint-Petersburg.</p>
+        <p>🌱 I’m currently learning Python, backend frameworks and NLP methods.</p>
+        <p>📫 How to reach me: artemholmansky@yandex.ru, Telegram @hohlamoon.</p>
+        <h3>🛠️ My Skills:\n <l> Python</l></h3>
         <p>[Your skills, e.g., Programming Languages, Tools, Technologies]</p>
     </div>
 </body>
