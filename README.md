@@ -16,8 +16,6 @@
         <p>⚡ Fun fact: [Something interesting about you].</p>
         <h3>🛠️ My Skills</h3>
         <p>[Your skills, e.g., Programming Languages, Tools, Technologies]</p>
-        <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
     </div>
 </body>
 </html>
