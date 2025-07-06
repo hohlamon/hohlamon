@@ -16,3 +16,10 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
+## Bio
+
+👋 Hi, I'm Artyom Kholmansky — a Python developer focused on GenAI, LLMs, and backend services.
+🚀 Currently a Senior Prompt Engineer at MWS AI, where I design LLM pipelines using LangChain, RAG, and FastAPI.
+📚 My background combines Computer Science and Linguistics, with experience in NLP, prompt engineering, and Telegram bots.
+🛠️ Skilled in Python, Docker, MongoDB, and tools like LangFlow, ChromaDB, and OpenAI APIs.
+🧠 I enjoy building scalable, intelligent systems — especially those that bridge language and technology.
